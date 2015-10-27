@@ -1,4 +1,4 @@
-# JavaApp-1.0
+# JavaApp-1.4
 
 Monitor Java based applications such as Tomcat, JBoss, ActiveMQ via jmx. Provides charts and alerts on Heap Memory allocation,GC Activity and log4j logs. Provides extensive monitoring and logging for PROD and devops environments
 
@@ -7,12 +7,12 @@ Monitor Java based applications such as Tomcat, JBoss, ActiveMQ via jmx. Provide
 
 Read [How to deploy](http://logscape.github.io/deploy.html) for basic App installation instructions  
 Read [How to import data](http://logscape.github.io/ds-add.html) to learn about data sources  
-Read [Jmx Monitoring Overrides](https://github.com/logscape/javaapp/blob/master/overrides.md#overrides) to see some examples
+Read [Jmx Monitoring Overrides](https://github.com/logscape/java3/blob/master/overrides.md#overrides) to see some examples
 
 Download and deploy:  
 
- *  [JavaApp-1.0.zip](https://github.com/logscape/javaapp/blob/master/dist/JavaApp-1.0.zip?raw=true)  
- *  [JavaApp-1.0-overrides.properties](https://github.com/logscape/javaapp/blob/master/dist/JavaApp-1.0-override.properties)  (Example Overrides file) 
+ *  [JavaApp-1.4.zip](https://github.com/logscape/java3/blob/master/dist/JavaApp-1.4.zip?raw=true)  
+ *  [JavaApp-1.4-overrides.properties](https://github.com/logscape/java3/blob/master/dist/JavaApp-1.4-override.properties)  (Example Overrides file) 
 
 # Installation 
 
