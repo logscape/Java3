@@ -106,7 +106,7 @@ This example will run the JavaApp only on the following agents.
 An example which runs the JavaApp on the Manager 
 
 
-	bundle.defaults.resourceSelection=type contains Manager 
+	bundle.defaults.resourceSelection=type contains Management 
 
 
 
